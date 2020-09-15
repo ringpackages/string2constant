@@ -32,7 +32,8 @@ aPackageInfo = [
 	:ringfolderfiles = 	[
 		"tools/string2constant/string2constant.rform",
 		"tools/string2constant/string2constantController.ring",
-		"tools/string2constant/string2constantView.ring"
+		"tools/string2constant/string2constantView.ring",
+		"tools/string2constant/README.md"
 	],
 	:windowsfiles = 	[
 
